@@ -22,8 +22,6 @@ video {
 /* Iframe Style */
 iframe {
 	display: block;
-	min-width: 374.01px;
-	max-width: 374.01px;
 	margin-top: 25px;
 	overflow: hidden;
 }
