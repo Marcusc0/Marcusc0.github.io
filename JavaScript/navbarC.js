@@ -120,6 +120,7 @@ this.innerHTML = `
 			<a href="MSFIIIRE.html">MSFIIIRE</a>
 			<a href="Nata Lee.html">Nata Lee</a>
 			<a href="Neol Leon.html">Neol Leon</a>
+			<a href="Seltin Sweety.html">Seltin Sweety</a>
 			<a href="Shaiden Rogue.html">Shaiden Rogue</a>
 			<a href="Sophia Diamond.html">Sophia Diamond</a>
 			<a href="Sophie Mudd.html">Sophie Mudd</a>
