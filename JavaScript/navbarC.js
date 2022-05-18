@@ -126,6 +126,7 @@ this.innerHTML = `
 			<a href="Shaiden Rogue.html">Shaiden Rogue</a>
 			<a href="Sophia Diamond.html">Sophia Diamond</a>
 			<a href="Sophie Mudd.html">Sophie Mudd</a>
+			<a href="Summer Brookes.html">Summer Brookes</a>
 			<a href="Sydney Sweeney.html">Sydney Sweeney</a>
 			<a href="Vanessa Mariposa.html">Vanessa Mariposa</a>
 			<a href="Yua Mikami.html">Yua Mikami</a>
