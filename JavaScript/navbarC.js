@@ -104,6 +104,7 @@ this.innerHTML = `
 			<a href="Emilia Clarke.html">Emila Clarke</a>
 			<a href="Emily Ratajkowski.html">Emily Ratajkowski</a>
 			<a href="Emilywoods1.html">Emilywoods1</a>
+			<a href="Emma Kotos.html">Emma Kotos</a>
 			<a href="Gloria Guida.html">Gloria Guida</a>
 			<a href="Isabel Lucas.html">Isabel Lucas</a>
 			<a href="Jennifer Connelly.html">Jennifer Connelly</a>
