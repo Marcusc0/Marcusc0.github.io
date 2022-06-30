@@ -118,6 +118,7 @@ this.innerHTML = `
 			<a href="../Celebrity/Mathilda May.html">Mathilda May</a>
 			<a href="../Celebrity/Mercedes Blanche.html">Mercedes Blanche</a>
 			<a href="../Celebrity/Mila Sobolov.html">Mila Sobolov</a>
+			<a href="../Celebrity/Miss Bo.html">Miss Bo</a>
 			<a href="../Celebrity/Missy.html">Missy</a>
 			<a href="../Celebrity/MSFIIIRE.html">MSFIIIRE</a>
 			<a href="../Celebrity/Nata Lee.html">Nata Lee</a>
